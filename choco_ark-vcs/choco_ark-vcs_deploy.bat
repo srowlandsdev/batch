@@ -1,7 +1,6 @@
 :: Developed by Sam Rowlands
 :: Authored 15/02/2024
 
-
 @echo off
 
 echo "Upgrading Chocolatey"
